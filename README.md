@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
 <h3 align="center">I am Full Stack Developer with MERN Stack</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+
 
 - 📫 How to reach me **imrandev71@gmail.com**
 
